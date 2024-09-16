@@ -61,5 +61,5 @@ Play against another person on the same device. Take turns to play and enjoy the
 
 ## Contributors
 
-- **Rohit**: 
+- **Rohit**
 
